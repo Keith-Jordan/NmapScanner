@@ -1,3 +1,3 @@
-#Python3 Nmap Scanner
+# Python3 Nmap Scanner
 
 A simple automated Nmap scanner. 
